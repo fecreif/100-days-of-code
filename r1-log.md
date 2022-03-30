@@ -9,3 +9,6 @@ Started a Google Calendar App.
 Worked on Postman to test my API locally.
 Wrote SQL queries in MySQLWorkBench
 ### R1D2
+Worked on 2 github accounts 2 pairs of HHS keys
+On one machine.
+Created Google Calendar API.
