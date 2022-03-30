@@ -12,3 +12,5 @@ Wrote SQL queries in MySQLWorkBench
 Worked on 2 github accounts 2 pairs of HHS keys
 On one machine.
 Created Google Calendar API.
+Tested Get request, POST request.
+
