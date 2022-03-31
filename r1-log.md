@@ -13,3 +13,9 @@ Worked on 2 github accounts 2 pairs of SSH keys
 On one machine.
 Created Google Calendar API.Tested Get request, POST request.
 
+### R1D3
+I'm so tired today
+Just learnt some curl and http
+...
+
+
